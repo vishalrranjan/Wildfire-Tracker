@@ -1,3 +1,13 @@
+# Wildfire Tracker APP
+ 
+ This app is build on react technology and it shows the wild fire which happend around the globe (world) and data are fetching from [ NASA Api ](https://eonet.sci.gsfc.nasa.gov/docs/v2.1) and [ Wildfire Data ](https://eonet.sci.gsfc.nasa.gov/api/v2.1/events).
+ 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
